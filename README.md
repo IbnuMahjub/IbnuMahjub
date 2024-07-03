@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)](ibnumahjub.github.io/ibnumahjubv2/)
+[![MasterHead](https://i.pinimg.com/originals/06/cc/f9/06ccf9f3138d0cca528683b864450337.gif)](ibnumahjub.github.io/ibnumahjubv2/)
 
 <h1 align="center">Hi 👋, I'm Ibnu Mahjub</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
