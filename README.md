@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/06/cc/f9/06ccf9f3138d0cca528683b864450337.gif)](ibnumahjub.github.io/ibnumahjubv2/)
+<a href="ibnumahjub.github.io/ibnumahjubv2/">
+  <img align="center" src="https://i.pinimg.com/originals/06/cc/f9/06ccf9f3138d0cca528683b864450337.gif" alt="MasterHead" style="display: block; margin-left: auto; margin-right: auto;">
+</a>
 
 <h1 align="center">Hi 👋, I'm Ibnu Mahjub</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
